@@ -1,7 +1,7 @@
 package project.oana;
 
 public class FirstCommit {
-    int a;
-    public static void MyClass(){}
+    public static void MyClass(){
+    int a = 0;}
 
 }
